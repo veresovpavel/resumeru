@@ -52,6 +52,6 @@
 
 ### Контакты
 - Telegramm: t.me/veresovpavel
-- e-mail: paulver@mail.ru
+- E-mail: paulver@mail.ru
 
 
